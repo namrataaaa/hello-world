@@ -2,6 +2,6 @@
 Just another Repository
 
 Hey there!
-I'm really excited to use GitHub for the firts time.
+I'm really excited to use GitHub for the first time.
 This'll be my friend for the next four years and hopefully, my entire life. :)
 
